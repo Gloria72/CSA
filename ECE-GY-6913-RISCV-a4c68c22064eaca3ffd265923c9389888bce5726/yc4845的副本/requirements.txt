@@ -1,2 +1,0 @@
-easydict~=1.11
-typed_argument_parser~=1.8.1
